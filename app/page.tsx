@@ -16,9 +16,9 @@ export default function Home() {
           navItems={navItems}/>
         <Hero/>
         <Projects/>
-        {/*<Skills/>
+        <Skills/>
         <Experience/>
-        <Contact/>*/}
+        <Contact/>
       </div>
     </main>
   );
