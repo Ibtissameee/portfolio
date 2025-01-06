@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div className="w-full pt-20 pb-10" id="contact">
       <div className="flex flex-col items-center">
-        <h1 className="heading lg:max-w-[45vw]">Let's 
+        <h1 className="heading lg:max-w-[45vw]">Let&apos;s 
             <span className='text-purple'> Connect</span>
         </h1>
         <p className='text-white-200 md:mt-10 my-5 text-center'>
