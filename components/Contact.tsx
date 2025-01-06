@@ -12,7 +12,7 @@ const Contact = () => {
             <span className='text-purple'> Connect</span>
         </h1>
         <p className='text-white-200 md:mt-10 my-5 text-center'>
-        I’m currently looking for an internship opportunity where I can contribute and grow as a developer. If you have a position that aligns with my skills and passion, feel free to reach out—I’d love to connect!
+        I am currently looking for an internship opportunity where I can contribute and grow as a developer. If you have a position that aligns with my skills and passion, feel free to reach out—I’d love to connect!
         </p>
         <a href="mailto:ibtissam.mesbah48@gmail.com">
             <MagicButton

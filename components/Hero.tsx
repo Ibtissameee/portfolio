@@ -29,12 +29,12 @@ const Hero = () => {
             <h2 className='uppercase tracking-widest text-m text-center text-blue-100 max-w-85'>
                  Currently a Last Year Software Engineering Student in ENSAO . I am Looking For a PFE Internship
             </h2>
-            {/*<a href="/assets/Ibtissame_Mesbah_s_CV (2).pdf" download="assets/Ibtissame_Mesbah_s_CV (2).pdf">
+            {<a href="/assets/Ibtissame_Mesbah_s_CV (2).pdf" download="assets/Ibtissame_Mesbah_s_CV (2).pdf">
                 <MagicButton
                     title="Download Resume"
                     icon={<MdOutlineSaveAlt/>}
                     position='right'/>
-            </a>*/}
+            </a>}
 
         </div>
         <div>
